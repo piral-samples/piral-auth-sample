@@ -15,7 +15,7 @@ const MenuItem: React.FC<MenuItemProps> = ({ children }) => (
 
 const defaultMenuItems = (
   <>
-    <MenuItem type="general">
+    <MenuItem type="general" meta={{}}>
       <Link className="nav-link text-dark" to="/not-found">
         Not Found
       </Link>
