@@ -6,6 +6,8 @@
 
 :zap: This sample demonstrates the primary use of `piral-oidc` and `piral-oauth2` in a simple app shell.
 
+You can visit this demo at [auth.samples.piral.cloud/](https://auth.samples.piral.cloud/).
+
 ## Getting Started
 
 Install the dependencies:
