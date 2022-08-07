@@ -6,6 +6,10 @@
 
 :zap: This sample demonstrates the primary use of `piral-oidc` and `piral-oauth2` in a simple app shell.
 
+Feel free to play around with the code using StackBlitz.
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/piral-samples/piral-auth-sample)
+
 You can visit this demo at [auth.samples.piral.cloud/](https://auth.samples.piral.cloud/).
 
 ## Getting Started
